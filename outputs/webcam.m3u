@@ -1,12 +1,54 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-01 02:37:27 UTC
-# Updated: 2026-08-01 02:37:27
+# Generated: 2026-08-01 14:57:22 UTC
+# Updated: 2026-08-01 14:57:22
 # Title: 景区慢直播
-# Total Channels: 2
+# Total Channels: 23
 # For personal testing only.
 
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 tvg-name="黄山新闻综合" tvg-id="黄山新闻综合" tvg-logo="https://tb.zbds.top/logo/黄山新闻综合.png" group-title="地方频道", 黄山新闻综合 # Tier:A Score:8
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 #EXTINF:-1 tvg-name="长白山电视台" tvg-id="长白山电视台" tvg-logo="https://tb.zbds.top/logo/长白山电视台.png" group-title="地方频道", 长白山电视台 # Tier:A Score:10
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+#EXTINF:-1  tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png"  group-title="💓台湾台📶",星空卫视 # Tier:B Score:7
+http://xhyx.gz.cn:1698/hls/35/index.m3u8
+#EXTINF:-1  tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png"  group-title="🍹定制台☕️",星空卫视 # Tier:B Score:5
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="中超",⚽ 上海海港 vs 山东泰山 0-1 [直播32] # Tier:A Score:9
+https://live.666666.zip/live/4498921.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png" group-title="👁️‍🗨️监控直播",澎湃景区 # Tier:A Score:9
+https://play-a2.quklive.com/live/1765245429980053.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="🎨埋堆堆直播",雪山飞狐 # Tier:C Score:4
+https://huyazhibo.de5.net/?id=23734176
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%89%8D%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%95%8A.png" group-title="🤣沙雕动画直播",天才大熊猫啊 # Tier:C Score:2
+http://live.nctv.top/douyu1.php?id=10646699
+#EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩 # Tier:F Score:0
+https://vd4.bdstatic.com/mda-keck5jhdaagebxkm/v1-cae/mda-keck5jhdaagebxkm.mp4?auth_key=1602762530-0-0-3e02c62e492e00c28c5557d41188d769&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=288&split=391503
+#EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩 # Tier:C Score:2
+https://vd3.bdstatic.com/mda-mkf3j23x8vr8bc79/hd/cae_h264/1637032794957244867/mda-mkf3j23x8vr8bc79.mp4
+#EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩 # Tier:C Score:1
+http://vd4.bdstatic.com/mda-khhkahykt2mjfmq7/mda-khhkahykt2mjfmq7.mp4
+#EXTINF:-1 tvg-id="熊猫频道01高清" tvg-name="熊猫频道01高清" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/634/723/202206081044_2202634723_H32_1080.webp" group-title="🌀中国",熊猫频道01高清 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=106&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=cac2e763263efd92ed7cc58e1888c759915eee535c812dd645256c6c2574d3ef
+#EXTINF:-1 tvg-id="熊猫频道1" tvg-name="熊猫频道1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/699/202209211759_2200200699_H32_1080.webp" group-title="🌀中国",熊猫频道1 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=107&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=27ae1168f052acf42a9b819ca820d13337cb0dc9d82aafd0148ef80ca03aefd7
+#EXTINF:-1 tvg-id="熊猫频道2" tvg-name="熊猫频道2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/717/202209211759_2200200717_H32_1080.webp" group-title="🌀中国",熊猫频道2 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=108&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=9d7157f7303511aaf3eba5d30e6b28a1afee04dd4ab72974a0e4d1e4d9b53f2f
+#EXTINF:-1 tvg-id="熊猫频道3" tvg-name="熊猫频道3" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/738/202209211759_2200200738_H32_1080.webp" group-title="🌀中国",熊猫频道3 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=109&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=5a6a2efc4f339d6976f22f05c6f0ee6121daef1a029a2f3c39c2b7a477b1eaa9
+#EXTINF:-1 tvg-id="熊猫频道4" tvg-name="熊猫频道4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/771/202209211800_2200200771_H32_1080.webp" group-title="🌀中国",熊猫频道4 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=110&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=2c741160664c78aff58298321a5590c1520a172adf45c1dcdf7d47ca7fb03e94
+#EXTINF:-1 tvg-id="熊猫频道5" tvg-name="熊猫频道5" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/791/202209211800_2200200791_H32_1080.webp" group-title="🌀中国",熊猫频道5 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=111&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=9a69679437140367a6ecb03baa380629fe0ffd247d2629e8ce6b6261eef717e5
+#EXTINF:-1 tvg-id="熊猫频道6" tvg-name="熊猫频道6" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/817/202209211800_2200200817_H32_1080.webp" group-title="🌀中国",熊猫频道6 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=112&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=1f37c8a1b0140ecc1f6cae8dd82c7c8e37c15de2354fc7ea8ce1ff9c3d5ac31f
+#EXTINF:-1 tvg-id="熊猫频道7" tvg-name="熊猫频道7" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/831/202209211800_2200192831_H32_1080.webp" group-title="🌀中国",熊猫频道7 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=113&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=99bead92192b20cd13d8235b0731f7c462f9a4e4411873ef3fde9c90ac21b5f2
+#EXTINF:-1 tvg-id="熊猫频道8" tvg-name="熊猫频道8" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/881/202209211800_2200192881_H32_1080.webp" group-title="🌀中国",熊猫频道8 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=114&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=aa9eb6b1eb8d868c542dfaed3b4e7d9b154118a87aeaced6f6b4c05c5ae94335
+#EXTINF:-1 tvg-id="熊猫频道9" tvg-name="熊猫频道9" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/899/202209211800_2200192899_H32_1080.webp" group-title="🌀中国",熊猫频道9 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=115&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=9f2a64ffc07e7c4c09f46c21526985e9c300c29a4be4e10da725a892ab5d8f61
+#EXTINF:-1 tvg-id="熊猫频道10" tvg-name="熊猫频道10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/937/202209211800_2200192937_H32_1080.webp" group-title="🌀中国",熊猫频道10 # Tier:C Score:4
+http://tv123.cc.cd/live.php?ch=116&sid=a96f44f562d0cd5c004ec935365176bd&exp=1785633574&sig=607ccee00fbb15a18b4586405fccad865143dd4f663564f992f432a40d88c25a
