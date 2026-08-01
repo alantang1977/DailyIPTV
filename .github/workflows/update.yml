@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write          # 赋予写入权限
+
 jobs:
   update-sources:
     runs-on: ubuntu-latest
@@ -47,5 +50,7 @@ jobs:
           echo "没有文件需要提交"
         else
           git commit -m "Auto-update IPTV sources - $(date +'%Y-%m-%d %H:%M:%S')"
+          # 关键修复：使用 GITHUB_TOKEN 认证的远程地址
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push
         fi
