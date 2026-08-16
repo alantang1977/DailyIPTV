@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-15 02:48:21 UTC
-# Updated: 2026-08-15 02:48:21
+# Generated: 2026-08-16 02:50:49 UTC
+# Updated: 2026-08-16 02:50:49
 # Title: 景区慢直播
-# Total Channels: 12
+# Total Channels: 11
 # For personal testing only.
 
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/熊猫直播.png" group-title="央视频道",熊猫直播 # Tier:B Score:6
@@ -16,8 +16,6 @@ http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 https://play-a2.quklive.com/live/1765245429980053.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="🎨埋堆堆直播",雪山飞狐 # Tier:C Score:4
 https://huyazhibo.de5.net/?id=23734176
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%89%8D%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%95%8A.png" group-title="🤣沙雕动画直播",天才大熊猫啊 # Tier:C Score:2
-http://live.nctv.top/douyu1.php?id=10646699
 #EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩 # Tier:C Score:1
 http://vd4.bdstatic.com/mda-khhkahykt2mjfmq7/mda-khhkahykt2mjfmq7.mp4
 #EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩 # Tier:F Score:0
