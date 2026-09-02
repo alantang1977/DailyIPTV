@@ -1,6 +1,6 @@
 ## 📡 直播源地址
 
-最后更新: 2026-09-01 03:29:07
+最后更新: 2026-09-02 02:47:39
 
 ### 🏆 质量分级
 - **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/tier_a.m3u) (76个)
@@ -21,16 +21,16 @@
 
 ### 🔧 特殊列表
 - **IPv6 源**: [https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/ipv6.m3u](https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/ipv6.m3u) (93个，需IPv6网络)
-- **景区慢直播**: [https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/webcam.m3u](https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/webcam.m3u) (1个)
+- **景区慢直播**: [https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/webcam.m3u](https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/webcam.m3u) (2个)
 - **已拦截**: [https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/blocked.m3u) (415个，私人代理/高风险域名)
 
 ### 📊 统计信息
 - 总采集: 1363 个
-- 内容验证通过: 193 个
+- 内容验证通过: 194 个
 - IPv6保留: 93 个
 - A级: 76 | B级: 66 | C级: 21
-- 验证耗时: 413.09 秒
-- 更新时间: 2026-09-01T03:29:07.673005
+- 验证耗时: 427.45 秒
+- 更新时间: 2026-09-02T02:47:39.432527
 
 ---
 
