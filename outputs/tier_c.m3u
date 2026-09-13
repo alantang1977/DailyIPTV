@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-09-12 04:25:55 UTC
-# Updated: 2026-09-12 04:25:55
+# Generated: 2026-09-13 04:25:29 UTC
+# Updated: 2026-09-13 04:25:29
 # Title: C级 — 低置信度
-# Total Channels: 202
+# Total Channels: 186
 # For personal testing only.
 
-#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网（国内） # Tier:C Score:4
-http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="数字频道",CCTV-6电影 # Tier:C Score:4
-http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网 # Tier:C Score:4
 http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
-#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1993年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="数字频道",CCTV-6电影 # Tier:C Score:4
+http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
+#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网（国内） # Tier:C Score:4
+http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 #EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1994年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1993年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
 #EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1995年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
 #EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",1996年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
 #EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2000年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2001年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2002年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
 #EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2003年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2005年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2007年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2006年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2002年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2001年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
 #EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2004年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2009年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2010年春晚 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2006年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2007年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2005年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
 #EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2013年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2010年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2009年春晚 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
 #EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2014年春晚 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 #EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚频道",2018年春晚 # Tier:C Score:2
@@ -50,148 +50,142 @@ https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTl
 https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
 #EXTINF:-1 group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com # Tier:C Score:2
 https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_7aa3b35856fcf40170a966e07da57b47.jpeg?from=3067671334" group-title="抖音",天霸Mad98（三角洲行动） - 三游戏职业、三角洲职业赛冠军FMVP、红人杯冠军，拯救破产大兵 # Tier:C Score:4
+http://pull-f3.douyinliving.com/thirdgame/stream-696536411558642497_hiquhd5.m3u8?auth_key=1789873033-0-0-e1a653b9200bb95a3d37afd13118fb15&major_anchor_level=vip&exp_hrchy=s1&s_anchor=1&arch_hrchy=s2&t_id=037-20260913112712E30D7FC930B4D5D4C173-mW8qaW
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2024/08/08/16/BMjAyNDA4MDgxNjE0NTZfMzQyNjk5NTM4Ml8xX2hkMTMyXzU4Nw==_s.jpg" group-title="快手",林二少 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/zAgIiERzmJY_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=c7699bfbda64312fdcc19ce84f53d176&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2062&no_script=1&srcStrm=zAgIiERzmJY&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2021/05/31/00/BMjAyMTA1MzEwMDE1MzhfMjA2MDQxNDIzXzFfaGQ2NjZfMTA5_s.jpg" group-title="快手",王铁蛋/舍得808 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/gCyNjS0YysI_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=8546c1b63291b349a982ba37f38c6d73&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2756&no_script=1&srcStrm=gCyNjS0YysI&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2019/12/23/14/BMjAxOTEyMjMxNDEyNTlfMjAwNjIxNDdfMV9oZDgyMl82NzQ=_s.jpg" group-title="快手",驴家阿宇&中午十二点 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/vrpfdetDtkc_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=ae175f64659daca8db6154b4735f7d49&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=vrpfdetDtkc&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/03/26/21/BMjAyNTAzMjYyMTUwMjJfMzE1OTQ3ODY3XzJfaGQ4NzdfMzUw_s.jpg" group-title="快手",鹏飞PF【励志前行】 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/5VObETFYPV4_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=c3436384a15402fbf8c7966ce29dcd4d&tsc=origin&highTraffic=1&oidc=watchmen&sidc=205599&no_script=1&srcStrm=5VObETFYPV4&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/01/27/20/BMjAyNjAxMjcyMDM5MzlfMTIzMDkxMjEwXzJfaGQ2ODdfNDM4_s.jpg" group-title="快手",华老黑、（户外赶大集） - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/74Ugc6lpxKU_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=f115a2e602e047efef11b5467a5491d1&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2062&no_script=1&srcStrm=74Ugc6lpxKU&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/10/29/14/BMjAyNTEwMjkxNDEzNDNfMTEzMzkyODg5MV8xX2hkODE1XzYzMQ==_s.jpg" group-title="快手",尾姐私人号 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/JZngLqimd3k_ma1500.flv?hwTime=6aa616d2&hwSecret=87de4b21c2bcc4dfe46c3a0773336e31&tsc=origin&highTraffic=1&oidc=watchmen&sidc=203562&no_script=1&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/11/18/20/BMjAyMzExMTgyMDQ5NDNfMzA2NDM1NTU3Ml8xX2hkMzI4XzY3OA==_s.jpg" group-title="快手",琦菲夫妇日常 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/LLNjROW2hEM_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=ca2041d1e0214c06f250f33cc77b6234&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201230&no_script=1&srcStrm=LLNjROW2hEM&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2021/01/22/22/BMjAyMTAxMjIyMjU2MjJfMjAzNzQ4MTY5XzFfaGQ4NzVfNDA3_s.jpg" group-title="快手",小美姐姐（808） - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/nW-Ok5KowCg_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=ed55bb2ed6b130ca0c1892cf8ea29b96&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&srcStrm=nW-Ok5KowCg&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2024/01/22/17/BMjAyNDAxMjIxNzA3NThfNjg1MzI1OTdfMl9oZDIyNF8zMDk=_s.jpg" group-title="快手",🍎沙僧大成子🍎816 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/wfMMh5N-B2s_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=22f7c9d5983e03b6799fa5ab6a2fc6ad&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=wfMMh5N-B2s&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/11/12/12/BMjAyNTExMTIxMjU4MjBfMzM2ODc2NTU2OV8xX2hkODk0XzcwOA==_s.jpg" group-title="快手",温向天 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/QEm20jCQqUM_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=6b0fa8c0f0095c499efb97a38c50cd6d&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=QEm20jCQqUM&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/04/04/22/BMjAyNjA0MDQyMjE1MDJfMjYwOTIwNTM0Ml8xX2hkNjE3XzUwOQ==_s.jpg" group-title="快手",宋大力-守护大院🌈 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/NKZvU9YrWx0_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=9498d3f58ec8a82aca0cc45b93db7efc&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2756&no_script=1&srcStrm=NKZvU9YrWx0&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/02/10/22/BMjAyMzAyMTAyMjA5MzhfNDU3NzcxMjJfMl9oZDYzMV82ODE=_s.jpg" group-title="快手",柴小涛 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/twpUIsXhIcc_ShowAvcHdL0.flv?hwTime=6aa616d2&hwSecret=28347edf70ee637e469517acf895795e&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
+https://hw-origin.pull.yximgs.com/gifshow/Mi_TkeqYw1E_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=bc97fec6d9bd7078fa2a630130df3fd4&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2062&no_script=1&srcStrm=Mi_TkeqYw1E&ss=s23&tfc_buyer=1
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/02/10/17/BMjAyMzAyMTAxNzI2NTlfMjkwNzg0MjA0MF8yX2hkMjEwXzg5MQ==_s.jpg" group-title="快手",伊人若梦 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/_Q73w4JMlgs_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=8b1744d567c311b80d73d3e8c4cc8cbb&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=_Q73w4JMlgs&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2024/08/26/14/BMjAyNDA4MjYxNDIwMTJfNzE3OTIyNjRfMV9oZDkxNV80ODI=_s.jpg" group-title="快手",JLV赵六六 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/kSsXBJnQymk_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=8746bee32b57dc8554adc06f26c3ba76&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=kSsXBJnQymk&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/01/15/22/BMjAyNTAxMTUyMjAyMzRfMjU0MTQxODYzM18xX2hkNzE2XzM4Nw==_s.jpg" group-title="快手",小雨 逆流而上 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/8z-UjaCYon4_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=befac42134cf6e126cf5a531b8fbec24&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2756&no_script=1&srcStrm=8z-UjaCYon4&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/17/21/BMjAyNjA3MTcyMTU3MTFfMzcxMzQ2NTM5NF8yX2hkMzAwXzEwOQ==_s.jpg" group-title="快手",小豪记录生活 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/NqvboBrpmm8_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=ef6596f81045beb34703eceb41a940a8&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=NqvboBrpmm8&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/03/27/01/BMjAyNjAzMjcwMTExNTlfMzA3OTc2MDgzM18yX2hkNTUwXzgzNw==_s.jpg" group-title="快手",小伟777 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/H7sqr8y0gjU_ma1500.flv?hwTime=6aa616d2&hwSecret=06473c21bf1b9b03218d227f84c7ebc0&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2062&no_script=1&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/06/27/11/BMjAyNTA2MjcxMTAzMTdfNDAzMDAwNjBfMl9oZDY1Ml8xOTU=_s.jpg" group-title="快手",快手见政 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14939134414_strL_GameAvcFhdL3.flv?hwTime=6aa616d2&hwSecret=f332c24b0845831742301f208f96f744&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2062&olsName=ioiviSha-vM&no_script=1&srcStrm=acSr6lYe4IE&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/08/30/18/BMjAyNjA4MzAxODUwMzZfMjg3NDUwODU2NF8yX2hkNjU1XzQxOQ==_s.jpg" group-title="快手",马天龙（正义永存） - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/wPd5gt9zU-w_ma1500.flv?hwTime=6aa616d2&hwSecret=8543b9efe93956b7952ff838563db95f&tsc=origin&highTraffic=1&oidc=watchmen&sidc=205492&no_script=1&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/08/09/15/BMjAyNjA4MDkxNTU0MjlfMzE0NjMxNjEyMF8xX2hkNDE5XzUyMA==_s.jpg" group-title="快手",可乐生活号 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/ALk3uCgItzQ_ShowAvcHdL0.flv?hwTime=6aa616d2&hwSecret=11e272f87ae39587ad84cfb9ef993681&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2756&no_script=1&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/08/04/10/BMjAyNjA4MDQxMDI1NDVfNTYwNzc0MDU4NV8xX2hkMzk2XzUwNw==_s.jpg" group-title="快手",大明～农村生活 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/codbs1seT50_ShowAvcHdL0.flv?hwTime=6aa616d2&hwSecret=23d05267ac1ba22f448ca6579339ab4a&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/04/17/21/BMjAyNjA0MTcyMTQ5MzVfMTU1MTI4MTM0Nl8yX2hkODMwXzg5NQ==_s.jpg" group-title="快手",主持人晨枫 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/0ro4ITY77vM_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=511314737838e567d8413f0d32411a6a&tsc=origin&highTraffic=1&oidc=watchmen&sidc=205251&no_script=1&srcStrm=0ro4ITY77vM&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/04/25/16/BMjAyNjA0MjUxNjQ1MTRfMzIzMDQ2NTU4NV8xX2hkNzY0XzIzNw==_s.jpg" group-title="快手",李阳（不忘初心） - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/d9jw4Nj6GE0_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=66622b554e7193893f136c6e75b49b15&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=d9jw4Nj6GE0&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/12/15/14/BMjAyNTEyMTUxNDI4MDhfMzMwNzkxMzk1MV8xX2hkNTA0XzU3OA==_s.jpg" group-title="快手",高畅💎【629】 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/83bexADOjPE_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=477b3b4c3f39c4eed6f106eecfcf7a79&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=83bexADOjPE&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/11/28/05/BMjAyNTExMjgwNTI5NTBfMjAxOTk0OTZfMV9oZDU4N183NjI=_s.jpg" group-title="快手",九天【招主播】 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/C3xAqnjXiwY_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=d33046f0eb36f60c58842ebd92c6c60d&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=C3xAqnjXiwY&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2024/08/14/19/BMjAyNDA4MTQxOTU4NTZfNDI0MDMwNjE1XzJfaGQ2OTFfNDM5_s.jpg" group-title="快手",马公子🐎 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/DnjMD3KDevg_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=b9baef59499ecbc93b8660ffdf6da133&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=DnjMD3KDevg&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2024/12/02/17/BMjAyNDEyMDIxNzE3MTZfNzM0OTk0NzYxXzFfaGQyNjNfNzEw_s.jpg" group-title="快手",万沃女鞋旗舰店 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/ZeSyx9LLxYY.flv?hwTime=6aa616d2&hwSecret=19ca9ca7977552be533c67bd06f264ee&oidc=watchmen&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/01/02/17/BMjAyNTAxMDIxNzM5MjZfNjc0MzgwNzYzXzJfaGQ1Nl83ODE=_s.jpg" group-title="快手",FZ钢蛋嗨翻天 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/HQnBZSTpfPU_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=bfbe688bfbf7de90ea81095a0452aa72&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=HQnBZSTpfPU&ss=s23&tfc_buyer=0
+https://hw-origin.pull.yximgs.com/gifshow/qX-dmXEBwNg_ma1500-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=164218bb6b105c0dbcdb0721bdfe0410&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201165&no_script=1&srcStrm=qX-dmXEBwNg&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2021/09/10/03/BMjAyMTA5MTAwMzQ0MjJfNDU1ODM1OTE4XzFfaGQzNjFfMzE1_s.jpg" group-title="快手",🔥媛宝🔥9.13号生日活动 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/l1utkSMh8D0_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=9e1e65afddf88e2c61d783faa7233df8&tsc=origin&highTraffic=1&oidc=watchmen&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/02/23/14/BMjAyNTAyMjMxNDI3MjdfNDY0MjIxMTM4OF8yX2hkNzg1XzczMw==_s.jpg" group-title="快手",大文文小号127🐬 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/IsvA7cMQH7Y_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=08e831b46fdba5f52d1a5db5a62c73c5&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/04/07/21/BMjAyNjA0MDcyMTIxNTJfNjQ4Mjk5Nzc0XzJfaGQ5MjdfNDI5_s.jpg" group-title="快手",大吹 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/N4NomZ5MUl0_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=454ff9d5b58d0f9882601cde3a15d0a8&tsc=origin&oidc=watchmen&sidc=205251&no_script=1&srcStrm=N4NomZ5MUl0&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/01/00/BMjAyNjA3MDEwMDAzMTVfMTM0MzE5Nzc3M18xX2hkOTQ1XzkyNA==_s.jpg" group-title="快手",侠姐831[招女主播] - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/1HbOlNzPbbE_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=ad14e506c4a2e20e85b310930583f78b&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=1HbOlNzPbbE&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/11/09/03/BMjAyNTExMDkwMzQwMTlfMzY1MjM4MV8xX2hkNzg4XzUxMA==_s.jpg" group-title="快手",悦悦院长💎文武双全 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/ydkbkbLx6Og_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=8692f251271d88ae0a55a6a5b277af24&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=ydkbkbLx6Og&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/08/14/13/BMjAyNjA4MTQxMzQzNTdfMzYyNTk4NTQ5OV8xX2hkNzY4XzU3OQ==_s.jpg" group-title="快手",Kk很好·琴💛 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/27PnHheCR0U_ShowAvcHdL0.flv?hwTime=6aa616d2&hwSecret=90c997ceff8689d81ae597818f7b50b0&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2020/05/20/01/BMjAyMDA1MjAwMTA4NDFfNzU1MTIyNzY1XzJfaGQ3NTZfNDY3_s.jpg" group-title="快手",李响情商教育培训导师 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/b38Chhd9gzA_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=eb05a5923a2717bc50140da606602fc4&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=b38Chhd9gzA&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/09/03/17/BMjAyNjA5MDMxNzQ5MDNfMTQxNTk1ODZfMl9oZDQ1Nl84NjY=_s.jpg" group-title="快手",赵山鸡（战斗鸡） - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/CZacDDtjI4g_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=5f1264637742a9d42f768777205dbed7&tsc=origin&oidc=watchmen&sidc=206077&no_script=1&srcStrm=CZacDDtjI4g&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/09/29/22/BMjAyNTA5MjkyMjA1MTRfMTMyNjE5MzkwNV8xX2hkNDc2XzIxMw==_s.jpg" group-title="快手",辣椒【629】 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/1HS9cJ_Tk58_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=4e7bc95677e5b23eae4404d1e70e6832&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=1HS9cJ_Tk58&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/09/01/09/BMjAyNjA5MDEwOTU5MzRfNTcyMTU4NDcyOF8yX2hkNjg5XzE5Mg==_s.jpg" group-title="快手",冰冰最棒 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/TUJXLCwwW0M_ShowAvcHdL0.flv?hwTime=6aa616d2&hwSecret=654119eadd34c9c208d2a2ca7fd7e79d&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
+https://hw-origin.pull.yximgs.com/gifshow/MWmiS_Q7h5s_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=e85cca625f921337aa607512f736376a&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&srcStrm=MWmiS_Q7h5s&ss=s23&tfc_buyer=0
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/09/08/00/BMjAyNTA5MDgwMDI3MzBfMTA4NDQ1OTY5Ml8xX2hkNDVfMTUx_s.jpg" group-title="快手",紫薰【629】 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/ujjU484gKOk_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=f7797ced55c97ef35bc0096e786ad791&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=ujjU484gKOk&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/10/17/08/BMjAyMzEwMTcwODI1MjhfNDU1MzUyMzQ0XzJfaGQ5MDlfODMy_s.jpg" group-title="快手",双城杰子🔥326🔥 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/bWUn5hFVbzk_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=a821ee3b5522803143809641e25770e6&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=bWUn5hFVbzk&ss=s23&tfc_buyer=0
+https://hw-origin.pull.yximgs.com/gifshow/7L7rTvqbMgA_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=fd050293cbbb743d6c91c2ebfd628ab2&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=7L7rTvqbMgA&ss=s23&tfc_buyer=0
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/04/17/00/BMjAyNjA0MTcwMDIyNDRfMTk1OTAwMTc4NV8xX2hkMzA2XzEzMA==_s.jpg" group-title="快手",☀️阳妹儿☀️（爱你呦） - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/32JKPisE3XM_ShowAvcHdL0.flv?hwTime=6aa616d2&hwSecret=62d7059105631d1a5f71b2626eec2a63&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/12/11/08/BMjAyMzEyMTEwODAyNDNfMTE3NTA0OTc2NV8xX2hkNDQxXzM4_s.jpg" group-title="快手",陌然影视 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/KUDTW7297n0_ShowAvcHdL0.flv?hwTime=6aa616d2&hwSecret=5ffe3dbd45bf4b4f8aff761885cb0952&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/05/05/14/BMjAyNjA1MDUxNDU0MDhfMTkwMDI2NTEwMF8xX2hkMjAzXzg5Nw==_s.jpg" group-title="快手",东北宁宁 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/oy_WUZw78F4_ma1500.flv?hwTime=6aa616d2&hwSecret=b360603105a455a835ab4be2c377f9dc&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/02/09/11/BMjAyNjAyMDkxMTAwMTZfMzE5OTk3OTEyXzJfaGQ4MjhfNzgz_s.jpg" group-title="快手",林月梅中午11点 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/5c4eQm69rTA_ma1500-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=73be5672ce738851cb09babf87bfd454&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=5c4eQm69rTA&ss=s23&tfc_buyer=1
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/17/19/BMjAyNjA3MTcxOTI0MDVfMjEwNTA0Nzk4NF8xX2hkMjc4XzM0NA==_s.jpg" group-title="快手",晓倩【629】 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/i4A8h4jrNKY_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=330f5162e2dff317a09be1039ef27576&tsc=origin&oidc=watchmen&sidc=206077&no_script=1&srcStrm=i4A8h4jrNKY&ss=s23&tfc_buyer=0
+https://hw-origin.pull.yximgs.com/gifshow/PG04y0kw_K0_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=4c9c5204e207eac45e0bb76658a60b16&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/12/15/14/BMjAyNTEyMTUxNDI4MDhfMzMwNzkxMzk1MV8xX2hkNTA0XzU3OA==_s.jpg" group-title="快手",高畅💎【629】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/olNd9O018Vo_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=215ae9044759f71cecb52ce5ae6ec1e7&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=olNd9O018Vo&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/09/03/09/BMjAyNjA5MDMwOTU1NDRfMjk0NDA4OTkxOV8xX2hkODIzXzkwMg==_s.jpg" group-title="快手",刘三狗【629】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/blI4iaFLXmo_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=dc791663f8ab64895e306a668209d2e1&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=blI4iaFLXmo&ss=s23&tfc_buyer=0
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2018/01/08/23/BMjAxODAxMDgyMzA3MDlfNzUyMTkxOTA4XzJfaGQ4N18zMDQ=_s.jpg" group-title="快手",东旭『激情四射』 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/7VIegoPpcjQ_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d2&hwSecret=945e886f947f097696b179c0ad92531c&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=7VIegoPpcjQ&ss=s23&tfc_buyer=0
+https://hw-origin.pull.yximgs.com/gifshow/WAPRWb44BIA_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=fb2b0f30cf36bf4d7f3ed92a14837d68&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=WAPRWb44BIA&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/11/28/05/BMjAyNTExMjgwNTI5NTBfMjAxOTk0OTZfMV9oZDU4N183NjI=_s.jpg" group-title="快手",九天【招主播】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/aUV9B1UjVp8_ma1500-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=8779b8ef3b2fdd2b1b5d484fe48b2082&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=aUV9B1UjVp8&ss=s23&tfc_buyer=1
 #EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2022/09/08/09/BMjAyMjA5MDgwOTQ4NTdfMTEyMTEzNzY1MV8xX2hkMTg0XzU2Ng==_s.jpg" group-title="快手",佳奇🔥小钢炮🔥 - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/wZbCpUjUZAM_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa616d3&hwSecret=a9d85fd14dcb591481d65011c10da73e&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=wZbCpUjUZAM&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/11/29/13/BMjAyNTExMjkxMzA3NDJfMTQ5NzUwNjg4Nl8yX2hkNjdfNjYw_s.jpg" group-title="快手",小六（正能量） - 快手直播 # Tier:C Score:2
-https://hw-origin.pull.yximgs.com/gifshow/lhRkU73fIUg_ShowAvcHdL0.flv?hwTime=6aa616d3&hwSecret=583137a732dbe2baa57766a4088c46fc&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HOY77.png" group-title="🔮港澳台直播",HOY77 # Tier:C Score:2
-http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+https://hw-origin.pull.yximgs.com/gifshow/K-UsLUCmEMY_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=a14c4a91fb432528d4cfbc3c5890baca&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=K-UsLUCmEMY&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/30/03/BMjAyNjA3MzAwMzI2NDhfNDQ0ODc2OTY0XzFfaGQyNTdfODg1_s.jpg" group-title="快手",强哥小号（斗地主） - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/jQ6S4bM3dVk_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=b5aebb7d67859c2b4e91ebf76e9f26da&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/03/10/22/BMjAyNjAzMTAyMjIyMzdfNDE2NTU0OTAyXzJfaGQ5NjhfNDE=_s.jpg" group-title="快手",莹宝儿【收徒一名】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/bg8iuc0P0cQ_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=29895db13a7eee29a4b6f93f1aeb71b3&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&srcStrm=bg8iuc0P0cQ&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/04/30/12/BMjAyNjA0MzAxMjA5MzZfNTQ2MzAyOTM0NF8xX2hkNDcxXzE2NQ==_s.jpg" group-title="快手",千金宝宝DZ🇨🇳⁴⁸⁶⁴ - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/akuBX1kAeww_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=4dbd6030066bb7d9a3a4160ffb5d5e85&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/12/21/12/BMjAyMzEyMjExMjI5NDdfMTE2OTEzNjk3N18yX2hkNDkyXzQwMA==_s.jpg" group-title="快手",蒙仔（昌图人） - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/g2WVIvb3G6E_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=519229e8eb0f0056af3464b87f68a26b&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=g2WVIvb3G6E&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/01/00/BMjAyNjA3MDEwMDAzMTVfMTM0MzE5Nzc3M18xX2hkOTQ1XzkyNA==_s.jpg" group-title="快手",侠姐831[招女主播] - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/BFxfEX6PbfU_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=b5c45eb9a42cf0536de0dded37d55f56&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=BFxfEX6PbfU&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/02/16/16/BMjAyNjAyMTYxNjM3MDZfMjY3NjQyNzc0N18yX2hkNTI2XzM1Mw==_s.jpg" group-title="快手",东北三胞胎一家 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/fCOKfbUZKU8_ma1500-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=56b5f2c63181671a7b401b3d77e126dc&tsc=origin&highTraffic=1&oidc=watchmen&sidc=207211&no_script=1&srcStrm=fCOKfbUZKU8&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/09/29/22/BMjAyNTA5MjkyMjA1MTRfMTMyNjE5MzkwNV8xX2hkNDc2XzIxMw==_s.jpg" group-title="快手",辣椒【629】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/ZaCLdFRBkhQ_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=6eb356af1cc3881dfa81d6d1864a4d73&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=ZaCLdFRBkhQ&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/09/06/10/BMjAyNjA5MDYxMDU4MDdfMjEyMjk5Njk2MV8xX2hkMjU5XzI0Nw==_s.jpg" group-title="快手",小地瓜 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/lnDGTZojIu8_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=bb86cf269d3735ed211f752107c4a1df&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/17/19/BMjAyNjA3MTcxOTI0MDVfMjEwNTA0Nzk4NF8xX2hkMjc4XzM0NA==_s.jpg" group-title="快手",晓倩【629】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/hiN_kW-v9Co_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=1f30192cfc934d045378fe0e2e26a08c&tsc=origin&oidc=watchmen&sidc=207615&no_script=1&srcStrm=hiN_kW-v9Co&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/08/18/14/BMjAyNjA4MTgxNDM5MjVfNDE3MzQyMDA0OF8xX2hkNzM2XzMwOQ==_s.jpg" group-title="快手",锁子 【师父西葫芦756】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/E278ad-bZg0_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=6e974328488ac688084d9f713b18a1ba&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=E278ad-bZg0&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2021/06/22/17/BMjAyMTA2MjIxNzE3MjBfMjI3MTA3MzcyXzJfaGQ5MzlfMzY1_s.jpg" group-title="快手",斗地主小曼 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/y7sXKpXOxRI_GameAvcFhdL3.flv?hwTime=6aa76994&hwSecret=87fba0778b231a62d7c07ac0381eff22&tsc=origin&oidc=watchmen&sidc=205599&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/04/02/11/BMjAyMzA0MDIxMTMyMjNfNDc4Nzg3MjEyXzJfaGQ2OTRfNzI3_s.jpg" group-title="快手",小琳宝（疯狂） - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/Zj6tjXpjpco_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=8cfce16fb9a6323472e56e4291490031&tsc=origin&oidc=watchmen&sidc=205492&no_script=1&srcStrm=Zj6tjXpjpco&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/12/23/14/BMjAyNTEyMjMxNDU1NTRfMTU0Mjg3Mjk3NV8xX2hkNjc3XzcyNQ==_s.jpg" group-title="快手",林姐/相亲大舞台 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/7YMc5szlz0M_ma1500.flv?hwTime=6aa76994&hwSecret=74d7727eb05a62e3e04286fe99fed61d&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/04/02/21/BMjAyNjA0MDIyMTEzNTVfMjgxODUyNTQ4OF8xX2hkNjgwXzk3Mg==_s.jpg" group-title="快手",老范【629】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/FNJ2cF7sTlk_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=d0f69df40656441d2577c56b2147c7a2&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=FNJ2cF7sTlk&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/06/26/15/BMjAyNjA2MjYxNTUyMDZfMjIwNzcxODI4NV8yX2hkOTYwXzI0Mg==_s.jpg" group-title="快手",百花艺术团 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/ivBtElyfUTU_ma1500.flv?hwTime=6aa76994&hwSecret=92d3b9d540273cdf13a274a971fe81e3&tsc=origin&oidc=watchmen&sidc=2959&no_script=1&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2019/11/22/18/BMjAxOTExMjIxODMwMzZfMTEzNTg1NDgyOV8yX2hkMzMyXzQzNA==_s.jpg" group-title="快手",艺人小燕子直播2 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/vdKtQ43_kt0_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=bcfe90aa8fe6d69c80b917e6b55705ad&tsc=origin&oidc=edgeWm&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2018/07/18/00/BMjAxODA3MTgwMDA3MjdfMTczNjk3Nzk5XzFfaGQxMjRfODQ5_s.jpg" group-title="快手",大力妈妈123 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/mUH-p2bJSLA_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=a7c29ab20523e1da69a4277671942492&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=mUH-p2bJSLA&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2021/09/27/14/BMjAyMTA5MjcxNDU1NThfMTY1MTAyMjEwXzJfaGQ5NDNfOTAx_s.jpg" group-title="快手",阿城你丹姐（扛不动活了） - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/-FOYmgUYVN8_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=fd05cb04cb76298f7fd76626493c0bb3&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=-FOYmgUYVN8&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2024/06/20/15/BMjAyNDA2MjAxNTE2MDZfNDA4MDQ5MzEyN18xX2hkNTEzXzY4_s.jpg" group-title="快手",红娘红姐☘️☘️ - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/IDgn-vdcKow_ma1500-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=d1a25cebddc5420f63448d792d031e67&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&srcStrm=IDgn-vdcKow&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/01/25/23/BMjAyNjAxMjUyMzA5NThfMTk3NDA4NzBfMV9oZDI1MV80NDE=_s.jpg" group-title="快手",大萍子（629） - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/cw3dYjeNymk_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=307103ec60b2a18bc08b1a7335646e19&tsc=origin&oidc=watchmen&sidc=205251&no_script=1&srcStrm=cw3dYjeNymk&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/11/14/14/BMjAyNTExMTQxNDA0MTdfMjM2Mzc4MTcxMV8xX2hkNzE0XzUxMQ==_s.jpg" group-title="快手",🐬大曼「901」 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/yTLRzaevEqk_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=fabbbc3e71a7a1e411c177f81589bb2e&tsc=origin&oidc=watchmen&sidc=205599&no_script=1&srcStrm=yTLRzaevEqk&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2023/05/05/17/BMjAyMzA1MDUxNzM5MTFfMzA0MjA2MDg1OF8xX2hkMzc5XzM=_s.jpg" group-title="快手",水仙姐 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/x0jRoPlOvPc_ma1500-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=5851360c9a6d80a6fa1a8c6a7327cf2f&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&srcStrm=x0jRoPlOvPc&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/01/05/07/BMjAyNjAxMDUwNzIzMTBfMTMxNjAyOTc4XzJfaGQ1NThfNzEy_s.jpg" group-title="快手",吉星大队 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/q4GbpYVJgP8_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=8b4cc1644427116e50a002983f64f68d&tsc=origin&oidc=watchmen&sidc=205816&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/09/12/BMjAyNjA3MDkxMjI1NTdfNTgzMjA5MDEyXzFfaGQ4NThfNzA2_s.jpg" group-title="快手",🔥小丹丹🔥小号 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/mp-gRo5XX1k_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=c463fc30fe7d31cbc14f0e35e1e750c8&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2021/06/16/01/BMjAyMTA2MTYwMTA0MTVfMjAwNDc2NDM4N18xX2hkNjAwXzIwMw==_s.jpg" group-title="快手",酷哥【上午11点播】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/iB_t3o4vY10_EcAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=0a7cbbc9325497c3caabc81f00e06c3d&tsc=origin&oidc=watchmen&sidc=205251&no_script=1&srcStrm=iB_t3o4vY10&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/10/04/21/BMjAyNTEwMDQyMTA5NDRfNDE4NzcxNjMyMV8xX2hkMjI0XzQ0NQ==_s.jpg" group-title="快手",扛刀baby·志虎 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/K0F2Xn_r38c_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=1db402b0b35791a98fa6d0b3d340644d&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=K0F2Xn_r38c&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/07/07/01/BMjAyNjA3MDcwMTQzNTJfMTA3MTQ1MzEyOF8xX2hkNjAwXzEzMA==_s.jpg" group-title="快手",西北乐·宝儿【无所畏惧】 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/I1uf7RHw9H4_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=7743f4410f0e767d575ccdc80f9cb855&tsc=origin&oidc=watchmen&sidc=206077&no_script=1&srcStrm=I1uf7RHw9H4&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/05/29/14/BMjAyNjA1MjkxNDUyMDVfNDYzMjMzODMwXzFfaGQzNTRfNTQx_s.jpg" group-title="快手",艺毛丫《山东晓艺》 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/J7y_Ya5zB9U_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=8ee46abdfc1831fa94a98c52e47d5b08&tsc=origin&oidc=watchmen&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2026/08/17/17/BMjAyNjA4MTcxNzEyMjBfMjE2OTIwOTc2Ml8xX2hkMjgyXzM0OQ==_s.jpg" group-title="快手",燕儿🐰（户外集市） - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/qob2ISoE7m4_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=d2420d92730a476d04665bddb702fa1c&tsc=origin&oidc=watchmen&sidc=207211&no_script=1&ss=s23&tfc_buyer=0
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2025/06/24/13/BMjAyNTA2MjQxMzMxNDJfMTk0NzU2NzkwOV8xX2hkOTE5XzIzNA==_s.jpg" group-title="快手",杨三女做好自己 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/dCZwCEv21Ro_ShowAvcHdL0-AuditAvcOriginL3.flv?hwTime=6aa76994&hwSecret=720b0eaed0a1bdbfa784839c7d001343&tsc=origin&oidc=watchmen&sidc=201230&no_script=1&srcStrm=dCZwCEv21Ro&ss=s23&tfc_buyer=1
+#EXTINF:-1 tvg-logo="https://p22.a.yximgs.com/uhead/AB/2021/03/31/23/BMjAyMTAzMzEyMzMzNDdfMTI2NDUwMTkzN18yX2hkOTk3XzQ0Mg==_s.jpg" group-title="快手",老原好物 - 快手直播 # Tier:C Score:2
+https://hw-origin.pull.yximgs.com/gifshow/BU0wduNBcwg_ShowAvcHdL0.flv?hwTime=6aa76994&hwSecret=87f60f0f4ba662bc193a83aa4da28cb6&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HOY76.png" group-title="🔮港澳台直播",HOY76 # Tier:C Score:2
 http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
-#EXTINF:-1 tvg-id="HOY78" tvg-name="Hoy 78" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hoy 78.png" group-title="🚂┃湾区频道",Hoy 78 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=44&s=2
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🔮港澳台直播",黄金翡翠台 # Tier:C Score:3
-https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0.png" group-title="🔮港澳台直播",黄金华剧台 # Tier:C Score:3
-https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png" group-title="🔮港澳台直播",港台电视31 # Tier:C Score:2
-http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HOY77.png" group-title="🔮港澳台直播",HOY77 # Tier:C Score:2
+http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="🔮港澳台直播",HOY78 # Tier:C Score:2
+http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0%E7%B2%A4.png" group-title="🔮港澳台直播",黄金华剧台粤 # Tier:C Score:3
 https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8632.png" group-title="🔮港澳台直播",港台电视32 # Tier:C Score:2
-http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0%E5%9B%BD.png" group-title="🔮港澳台直播",美亚电影台国 # Tier:C Score:3
-https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0.png" group-title="🔮港澳台直播",黄金华剧台 # Tier:C Score:3
+https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🔮港澳台直播",黄金翡翠台 # Tier:C Score:3
+https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png" group-title="🔮港澳台直播",港台电视31 # Tier:C Score:2
+http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0%E7%B2%A4.png" group-title="🔮港澳台直播",美亚电影台粤 # Tier:C Score:3
 https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DHE%20HD.png" group-title="🇺🇸美国直播",DHE HD # Tier:C Score:4
-http://108.181.23.41:80/livehttpplay?channel_id=23504
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0%E5%9B%BD.png" group-title="🔮港澳台直播",美亚电影台国 # Tier:C Score:3
+https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8632.png" group-title="🔮港澳台直播",港台电视32 # Tier:C Score:2
+http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SE%C3%91AL%20COLOMBIA%20HD.png" group-title="🇺🇸美国直播",SEÑAL COLOMBIA HD # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23510
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RCN%20HD%20COLOMBIA.png" group-title="🇺🇸美国直播",RCN HD COLOMBIA # Tier:C Score:4
-http://108.181.23.41:80/livehttpplay?channel_id=23515
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DHE%20HD.png" group-title="🇺🇸美国直播",DHE HD # Tier:C Score:4
+http://108.181.23.41:80/livehttpplay?channel_id=23504
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CARACOL%20HD%20COLOMBIA.png" group-title="🇺🇸美国直播",CARACOL HD COLOMBIA # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23513
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISNEY%20CHANELL%20HD.png" group-title="🇺🇸美国直播",DISNEY CHANELL HD # Tier:C Score:4
-http://108.181.23.41:80/livehttpplay?channel_id=23517
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RCN%20HD%20COLOMBIA.png" group-title="🇺🇸美国直播",RCN HD COLOMBIA # Tier:C Score:4
+http://108.181.23.41:80/livehttpplay?channel_id=23515
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ESPN%20PREMIUM%20HD.png" group-title="🇺🇸美国直播",ESPN PREMIUM HD # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23523
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TELEANTIOQUIA%20HD%20COLOMBIA.png" group-title="🇺🇸美国直播",TELEANTIOQUIA HD COLOMBIA # Tier:C Score:4
-http://108.181.23.41:80/livehttpplay?channel_id=23532
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISNEY%20CHANELL%20HD.png" group-title="🇺🇸美国直播",DISNEY CHANELL HD # Tier:C Score:4
+http://108.181.23.41:80/livehttpplay?channel_id=23517
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/WIN%20SPORTS%20PREMIUM%20%20COL.png" group-title="🇺🇸美国直播",WIN SPORTS PREMIUM  COL # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23542
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ON%20DIRECTV%20HD.png" group-title="🇺🇸美国直播",ON DIRECTV HD # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23544
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TELEANTIOQUIA%20HD%20COLOMBIA.png" group-title="🇺🇸美国直播",TELEANTIOQUIA HD COLOMBIA # Tier:C Score:4
+http://108.181.23.41:80/livehttpplay?channel_id=23532
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/WinSports%20HD.png" group-title="🇺🇸美国直播",WinSports HD # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23548
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/UNIVERSAL%20COMEDY%20HD.png" group-title="🇺🇸美国直播",UNIVERSAL COMEDY HD # Tier:C Score:4
-http://108.181.23.41:80/livehttpplay?channel_id=23550
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/GOLDEN%20PLUS%20MX%20HD.png" group-title="🇺🇸美国直播",GOLDEN PLUS MX HD # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23623
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/UNIVERSAL%20COMEDY%20HD.png" group-title="🇺🇸美国直播",UNIVERSAL COMEDY HD # Tier:C Score:4
+http://108.181.23.41:80/livehttpplay?channel_id=23550
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NTN%2024%20HORAS.png" group-title="🇺🇸美国直播",NTN 24 HORAS # Tier:C Score:4
 http://108.181.23.41:80/livehttpplay?channel_id=23705
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BF%84%E7%BD%97%E6%96%AFBRIDGE%20DELUXE.png" group-title="🇷🇺俄罗斯直播",俄罗斯BRIDGE DELUXE # Tier:C Score:4
 http://194.143.150.123:8080/udp/239.195.5.213:1234
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BF%84%E7%BD%97%E6%96%AF%D0%96APA.png" group-title="🇷🇺俄罗斯直播",俄罗斯ЖAPA # Tier:C Score:4
-http://194.143.150.123:8080/udp/239.195.5.11:1234
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Mon%20Tamil%20TV.png" group-title="🇱🇰斯里兰卡直播",Mon Tamil TV # Tier:C Score:2
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FunBox.png" group-title="👶🏻少儿直播",FunBox # Tier:C Score:4
@@ -200,166 +194,140 @@ http://186.148.196.100:8000/play/a00d
 http://xjj1.716888.xyz/fenlei/4k/4k.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84DJ%E8%88%9E%E6%9B%B2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄DJ舞曲[刷新就是新内容] # Tier:C Score:4
 http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E4%B8%8D%E5%90%83%E9%A6%99%E8%8F%9C%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄不吃香菜[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA1%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示1[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/jipinyz/jipinyz.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女热舞2[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/gengxin/gengxin.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示2[刷新就是新内容] # Tier:C Score:4
 http://xjj2.716888.xyz/fenlei/zj/xuejie/xuejie.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA3%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示3[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/kawayi/kawayi.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA6%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示6[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/manyao/manyao.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA5%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示5[刷新就是新内容] # Tier:C Score:4
 http://xjj2.716888.xyz/fenlei/zj/sihuawd/sihuawd.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA4%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示4[刷新就是新内容] # Tier:C Score:4
 http://xjj2.716888.xyz/fenlei/zj/nennen/nennen.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA6%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示6[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/manyao/manyao.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA3%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示3[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/kawayi/kawayi.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA7%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示7[刷新就是新内容] # Tier:C Score:4
 http://xjj2.716888.xyz/fenlei/zj/sihuadd/sihuadd.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA10%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示10[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/heji1/heji1.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA9%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示9[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/cos/cos.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA8%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示8[刷新就是新内容] # Tier:C Score:4
 http://xjj2.716888.xyz/fenlei/zj/qingchun/qingchun.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA11%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示11[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/jingpinbz/jingpinbz.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA10%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示10[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/heji1/heji1.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA12%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示12[刷新就是新内容] # Tier:C Score:4
 http://xjj2.716888.xyz/fenlei/zj/jipinll/jipinll.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA18%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示18[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/jingpinsc/jingpinsc.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA14%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示14[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/tianmei/tianmei.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA17%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示17[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/rewu/rewu.php
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA15%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示15[刷新就是新内容] # Tier:C Score:4
-http://xjj2.716888.xyz/fenlei/zj/yusi/yusi.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA16%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示16[刷新就是新内容] # Tier:C Score:4
 http://xjj2.716888.xyz/fenlei/tkxjj/tk.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA11%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示11[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/jingpinbz/jingpinbz.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA18%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示18[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/jingpinsc/jingpinsc.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA13%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示13[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/nideym/nideym.php
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA17%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示17[刷新就是新内容] # Tier:C Score:4
+http://xjj2.716888.xyz/fenlei/zj/rewu/rewu.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA22%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示22[刷新就是新内容] # Tier:C Score:4
 http://xjj1.716888.xyz/fenlei/kuan2/v.php
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E7%90%B4%E6%B5%B7.png" group-title="✡️周杰伦歌曲点播",爱琴海 # Tier:C Score:2
 https://k0u3cydy43y9zw2408x8760xfx5xx9z.djvod.ndcimgs.com/bs2/photo-video-mz/5254575056101873604_d3fb5f7443d7c902_5581_v6UltraV5.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%93%A6%E8%A7%A3.png" group-title="✡️周杰伦歌曲点播",瓦解 # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2025/05/18/18/BMjAyNTA1MTgxODM3NDdfMTA1MDEwOTk4Ml8xNjQ2MDE0MjY0NjVfMl8z_b_Bbfb62e6b9d724cd45a3ed462e4c16f39.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%86%E8%A3%82.png" group-title="✡️周杰伦歌曲点播",分裂 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2024/10/09/09/BMjAyNDEwMDkwOTA4NDFfMTMxNzAwMDUwNV8xNDU2Nzg0MDk5MDdfMl8z_b_Bf4bc983e2d5804ab066c988ba7652ec5.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD.png" group-title="✡️周杰伦歌曲点播",秘密花园 # Tier:C Score:2
+https://k0u3cydy43yaz.djvod.ndcimgs.com/bs2/photo-video-mz/5225864605208445410_36e3cffbcde751f5_4169_sl200hd15.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/2002THEONE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88.png" group-title="✡️周杰伦歌曲点播",2002THEONE演唱会完整版 # Tier:C Score:2
 https://vd3.bdstatic.com/mda-nmgdfvsm9kc46pcz/576p/h264/1671270120913302151/mda-nmgdfvsm9kc46pcz.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/2004%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88.png" group-title="✡️周杰伦歌曲点播",2004无与伦比演唱会完整版 # Tier:C Score:2
+https://vd4.bdstatic.com/mda-nmbpre7yr8iug4m1/576p/h264/1670863877948761917/mda-nmbpre7yr8iug4m1.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/2013%E6%91%A9%E5%A4%A9%E8%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88.png" group-title="✡️周杰伦歌曲点播",2013摩天轮演唱会完整版 # Tier:C Score:2
 https://vd4.bdstatic.com/mda-nmcex5u2u9puxz6d/576p/h264/1670928165588976698/mda-nmcex5u2u9puxz6d.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/2007%E5%B9%B4%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88.png" group-title="✡️周杰伦歌曲点播",2007年世界巡回演唱会完整版 # Tier:C Score:2
 https://vd4.bdstatic.com/mda-nmbgya8v797emg7u/576p/h264/1670847005358747234/mda-nmbgya8v797emg7u.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/2004%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88.png" group-title="✡️周杰伦歌曲点播",2004无与伦比演唱会完整版 # Tier:C Score:2
-https://vd4.bdstatic.com/mda-nmbpre7yr8iug4m1/576p/h264/1670863877948761917/mda-nmbpre7yr8iug4m1.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%93%A6%E8%A7%A3.png" group-title="✡️周杰伦歌曲点播",瓦解 # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2025/05/18/18/BMjAyNTA1MTgxODM3NDdfMTA1MDEwOTk4Ml8xNjQ2MDE0MjY0NjVfMl8z_b_Bbfb62e6b9d724cd45a3ed462e4c16f39.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD.png" group-title="✡️周杰伦歌曲点播",秘密花园 # Tier:C Score:2
-https://k0u3cydy43yaz.djvod.ndcimgs.com/bs2/photo-video-mz/5225864605208445410_36e3cffbcde751f5_4169_sl200hd15.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%B2%BE%E9%80%8981%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",林俊杰精选81首(5小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%B2%BE%E9%80%8928%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",潘玮柏精选28首(1小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%B2%BE%E9%80%89120%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周杰伦精选120首(8小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/2016%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88.png" group-title="✡️周杰伦歌曲点播",2016地表最强演唱会完整版 # Tier:C Score:2
 https://vd2.bdstatic.com/mda-nmd5ujxqrmxh59qj/576p/h264/1670992604552514459/mda-nmd5ujxqrmxh59qj.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/2010%E8%B6%85%E6%97%B6%E4%BB%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%8C%E6%95%B4%E7%89%88.png" group-title="✡️周杰伦歌曲点播",2010超时代演唱会完整版 # Tier:C Score:2
 https://vd2.bdstatic.com/mda-nmc4khkjnn0k62bn/360p/h264/1670901524505595792/mda-nmc4khkjnn0k62bn.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SHE%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",SHE精选40首(2小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3MzAxOTEyNDhfODI4NTk1NTQ0XzEwOTI2ODgxNTQyOF8yXzM=_b_B1770e5ac950c20cda3df1678ded64cbc.mp4?tag=1-1754625871-std-1-9msmgkqnic-492b9eaf83438074&clientCacheKey=3xdck2arwksxhfw_b.mp4&tt=b&di=88ccff4&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E8%89%AF%E7%B2%BE%E9%80%8930%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",徐良精选30首(1小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2024/05/08/20/BMjAyNDA1MDgyMDAyMjFfMTg1NzcxNTYxOF8xMzE5MDIyNTY0NzNfMl8z_b_B62cb1e50d6a0dea4efc3e6da93662aa4.mp4?tag=1-1754626109-std-1-9zwa2xbfok-40061606b10eb007&clientCacheKey=3xfdxxsd94byium_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%B2%BE%E9%80%8981%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",林俊杰精选81首(5小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%B2%BE%E9%80%89120%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周杰伦精选120首(8小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SHE%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",SHE精选40首(2小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3MzAxOTEyNDhfODI4NTk1NTQ0XzEwOTI2ODgxNTQyOF8yXzM=_b_B1770e5ac950c20cda3df1678ded64cbc.mp4?tag=1-1754625871-std-1-9msmgkqnic-492b9eaf83438074&clientCacheKey=3xdck2arwksxhfw_b.mp4&tt=b&di=88ccff4&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%B2%BE%E9%80%8928%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",潘玮柏精选28首(1小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E5%A5%95%E8%BF%85%E7%B2%BE%E9%80%8934%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陈奕迅精选34首(2小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",汪苏泷精选20首(1小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2020/09/30/22/BMjAyMDA5MzAyMjA3NDNfODI4NTk1NTQ0XzM2ODY2MzQxNzg4XzJfMw==_b_Bb726df27e24fda5e4d31b724d84ab8d4.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%B6%E5%96%86%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陶喆精选30首(2小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzEzMzhfODM0NDUzMTQ2XzEwOTgxMDA2NzAyNF8wXzM=_b_B5e5a6bf1ef67081a9a226a2f6145ea2d.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E5%A5%95%E8%BF%85%E7%B2%BE%E9%80%8934%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陈奕迅精选34首(2小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",薛之谦精选30首(2小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/07/28/13/BMjAyMzA3MjgxMzUwMzRfODM0NDUzMTQ2XzEwOTA3NjA4NDU2Nl8wXzM=_b_B480250201ec7378867d92e4d29f7a644.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%AE%B8%E5%B5%A9%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",许嵩精选30首(2小时) # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2020/09/14/21/BMjAyMDA5MTQyMTMzMDdfODI4NTk1NTQ0XzM2MDUzMTE1NjM5XzJfMw==_b_B789c6ea6a87d1b67019f19f16c9f71f7.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%82%93%E7%B4%AB%E6%A3%8B%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",邓紫棋精选30首(2小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2023/05/08/12/BMjAyMzA1MDgxMjIwNTNfMzQ4MzI0MjA1OF8xMDI1NjYyMjM5MDZfMF8z_b_B0675fa55fe8ce0583fb05fa02330e9f1.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%AE%B8%E5%B5%A9%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",许嵩精选30首(2小时) # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2020/09/14/21/BMjAyMDA5MTQyMTMzMDdfODI4NTk1NTQ0XzM2MDUzMTE1NjM5XzJfMw==_b_B789c6ea6a87d1b67019f19f16c9f71f7.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8E%AB%E6%96%87%E8%94%9A%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",莫文蔚精选72首(5小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/07/27/21/BMjAyMzA3MjcyMTQ2MjdfMzYxMjUyNDA3MV8xMDkwMzM1MjA2NTJfMF8z_b_B144de29e473911c6e9187c9d591b8943.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%B2%BE%E9%80%8996%E9%A6%96(6%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张韶涵精选96首(6小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2023/04/24/02/BMjAyMzA0MjQwMjA4MDlfMjE0OTExOTI2N18xMDEzNTM2NjA5OTFfMF8z_b_Baa658d527c452cd09e6dc0e9684c1bed.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%BF%83%E5%87%8C%E7%B2%BE%E9%80%8969%E9%A6%96(4%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王心凌精选69首(4小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/07/26/22/BMjAyMzA3MjYyMjExNTNfMzYxMjUyNDA3MV8xMDg5NTQ4NjE1ODlfMF8z_b_Bdded2693ce6f7de089cfd7030b45bef7.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BB%BB%E7%84%B6%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",任然精选20首(1小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2020/09/23/14/BMjAyMDA5MjMxNDA1MjFfMTc4NDYxNDcyNl8zNjQ5NDI4NzI1Nl8yXzM=_b_B0f6d5151ab2c346816996328a0b66b78.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%BE%E9%80%8937%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",五月天精选37首(2小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2021/12/07/23/BMjAyMTEyMDcyMzU2MzBfMjgwMTM4ODFfNjIzMTcwNTU3MTlfMl8z_b_Bd70a16353267a52b31d11f2cb77c6c5b.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%94%A1%E4%BE%9D%E6%9E%97%E7%B2%BE%E9%80%89102%E9%A6%96(6%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",蔡依林精选102首(6小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDUzMjFfNDQzMTI2Mjg0XzE2NjY1MzM5MjYxMV8yXzM=_b_B3bed4c7c1a80388966791d398e318edd.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8E%AB%E6%96%87%E8%94%9A%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",莫文蔚精选72首(5小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/07/27/21/BMjAyMzA3MjcyMTQ2MjdfMzYxMjUyNDA3MV8xMDkwMzM1MjA2NTJfMF8z_b_B144de29e473911c6e9187c9d591b8943.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%BF%83%E5%87%8C%E7%B2%BE%E9%80%8969%E9%A6%96(4%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王心凌精选69首(4小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/07/26/22/BMjAyMzA3MjYyMjExNTNfMzYxMjUyNDA3MV8xMDg5NTQ4NjE1ODlfMF8z_b_Bdded2693ce6f7de089cfd7030b45bef7.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E6%85%A7%E7%90%B3%E7%B2%BE%E9%80%8930%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陈慧琳精选30首(1小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2025/02/09/20/BMjAyNTAyMDkyMDIzNTVfMTg1NzcxNTYxOF8xNTY0NDk2NjMzNTZfMl8z_b_Bd072695cb8d3a79a9d1ac8cdb5b3b3bc.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%94%A1%E5%81%A5%E9%9B%85%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",蔡健雅精选30首(2小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/08/18/21/BMjAyMzA4MTgyMTA4MzZfODM0NDUzMTQ2XzExMDgyNTA1MjcwM18wXzM=_b_B0d509c2419313652932c68153a65e4ed.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AD%99%E7%87%95%E5%A7%BF%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",孙燕姿精选30首(2小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",薛之谦精选30首(2小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/07/28/13/BMjAyMzA3MjgxMzUwMzRfODM0NDUzMTQ2XzEwOTA3NjA4NDU2Nl8wXzM=_b_B480250201ec7378867d92e4d29f7a644.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E6%9D%B0%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王杰精选30首(2小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2020/09/06/17/BMjAyMDA5MDYxNzU1MjJfMTc4NDYxNDcyNl8zNTYyMjQ2ODIxNl8yXzM=_b_Bc35f6a28c8cf25ea947bc122c176b034.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%94%A1%E5%81%A5%E9%9B%85%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",蔡健雅精选30首(2小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/08/18/21/BMjAyMzA4MTgyMTA4MzZfODM0NDUzMTQ2XzExMDgyNTA1MjcwM18wXzM=_b_B0d509c2419313652932c68153a65e4ed.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%B7%B1%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周深精选72首(5小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A2%81%E9%9D%99%E8%8C%B9%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",梁静茹精选40首(2小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B9%94%E6%B4%8B%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",乔洋精选20首(1小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2024/01/05/17/BMjAyNDAxMDUxNzEwMTJfNDQzMTI2Mjg0XzEyMTM5OTg3NTU2MV8yXzM=_b_Bf81e0b3d32a3fe727949531d0929868e.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BA%84%E5%BF%83%E5%A6%8D%E7%B2%BE%E9%80%8944%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",庄心妍精选44首(2小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王力宏精选30首(2小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2020/09/30/21/BMjAyMDA5MzAyMTU2NTNfODI4NTk1NTQ0XzM2ODY1NDA2MDM3XzJfMw==_b_Bf61393cb3ef5f8ab4b687ae367ed1211.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A2%81%E9%9D%99%E8%8C%B9%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",梁静茹精选40首(2小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%B7%B1%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周深精选72首(5小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AD%99%E7%87%95%E5%A7%BF%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",孙燕姿精选30首(2小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",杨丞琳精选30首(2小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%9D%B0%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张杰精选40首(2小时) # Tier:C Score:2
-https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzIxNDZfODM0NDUzMTQ2XzEwOTgxMDY1NjE0MF8wXzM=_b_Bd5fedc48db11e5ccd52e4c2de1d8213a.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Beyond%E7%B2%BE%E9%80%8940%E9%A6%96(3%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",Beyond精选40首(3小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2024/01/24/14/BMjAyNDAxMjQxNDQxMjZfODI4NTk1NTQ0XzEyMzAwNzQ1MTk1Ml8yXzM=_b_Bf4811084a61390aced44f1c86a2ebddf.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E5%BE%B7%E5%8D%8E%E7%B2%BE%E9%80%89109%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",刘德华精选109首(8小时) # Tier:C Score:2
-https://tymov2.a.kwimgs.com/upic/2025/10/20/11/BMjAyNTEwMjAxMTQyNDFfNDQzMTI2Mjg0XzE3Nzg1NDI4MDg4NF8yXzM=_b_B986f50911251468679643173540572e9.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E5%AD%A6%E5%8F%8B%E7%B2%BE%E9%80%89124%E9%A6%96(9%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张学友精选124首(9小时) # Tier:C Score:2
-https://tymov2.a.kwimgs.com/upic/2025/10/23/09/BMjAyNTEwMjMwOTU1MjRfNDQzMTI2Mjg0XzE3ODA1MDQxODE1N18yXzM=_b_B99036df6b80af26d509c6ad67517e1c0.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E4%BC%A0%E9%9B%84%E7%B2%BE%E9%80%8984%E9%A6%96(6%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周传雄精选84首(6小时) # Tier:C Score:2
-https://tymov2.a.kwimgs.com/upic/2025/10/23/09/BMjAyNTEwMjMwOTE1NTFfNDQzMTI2Mjg0XzE3ODA0ODgzMDI2NV8yXzM=_b_B2ba9b9699f2554de32104e6bc944bd17.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%8E%E6%98%8E%E7%B2%BE%E9%80%89117%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",黎明精选117首(8小时) # Tier:C Score:2
-https://tymov2.a.kwimgs.com/upic/2026/04/23/05/BMjAyNjA0MjMwNTExMzFfNDQzMTI2Mjg0XzE5Mzg0OTkzMzEwMF8yXzM=_b_Bad1fcf6e0ecc5709c93bf60638c65454.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%9D%B0%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张杰精选40首(2小时) # Tier:C Score:2
+https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzIxNDZfODM0NDUzMTQ2XzEwOTgxMDY1NjE0MF8wXzM=_b_Bd5fedc48db11e5ccd52e4c2de1d8213a.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E8%8F%B2%E7%B2%BE%E9%80%89145%E9%A6%96(10%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王菲精选145首(10小时) # Tier:C Score:2
 https://tymov2.a.kwimgs.com/upic/2025/06/15/12/BMjAyNTA2MTUxMjQxMzBfNDQzMTI2Mjg0XzE2Njg4MDIxNDA2M18yXzM=_b_B291baabeaab840af0758f797d6b30862.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E5%AD%A6%E5%8F%8B%E7%B2%BE%E9%80%89124%E9%A6%96(9%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张学友精选124首(9小时) # Tier:C Score:2
+https://tymov2.a.kwimgs.com/upic/2025/10/23/09/BMjAyNTEwMjMwOTU1MjRfNDQzMTI2Mjg0XzE3ODA1MDQxODE1N18yXzM=_b_B99036df6b80af26d509c6ad67517e1c0.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E5%BE%B7%E5%8D%8E%E7%B2%BE%E9%80%89109%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",刘德华精选109首(8小时) # Tier:C Score:2
+https://tymov2.a.kwimgs.com/upic/2025/10/20/11/BMjAyNTEwMjAxMTQyNDFfNDQzMTI2Mjg0XzE3Nzg1NDI4MDg4NF8yXzM=_b_B986f50911251468679643173540572e9.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%8E%E6%98%8E%E7%B2%BE%E9%80%89117%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",黎明精选117首(8小时) # Tier:C Score:2
+https://tymov2.a.kwimgs.com/upic/2026/04/23/05/BMjAyNjA0MjMwNTExMzFfNDQzMTI2Mjg0XzE5Mzg0OTkzMzEwMF8yXzM=_b_Bad1fcf6e0ecc5709c93bf60638c65454.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E4%BC%A0%E9%9B%84%E7%B2%BE%E9%80%8984%E9%A6%96(6%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周传雄精选84首(6小时) # Tier:C Score:2
+https://tymov2.a.kwimgs.com/upic/2025/10/23/09/BMjAyNTEwMjMwOTE1NTFfNDQzMTI2Mjg0XzE3ODA0ODgzMDI2NV8yXzM=_b_B2ba9b9699f2554de32104e6bc944bd17.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%83%E5%BF%97%E9%BE%99%E7%B2%BE%E9%80%8919%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",权志龙精选19首(1小时) # Tier:C Score:2
 https://tymov2.a.kwimgs.com/upic/2024/01/06/03/BMjAyNDAxMDYwMzM5NTZfNDQzMTI2Mjg0XzEyMTQzNzg5NTQzNl8yXzM=_b_Ba6909c68ab1c5217276621ad0a94c3ab.mp4
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%83%A0%E5%A6%B9%E7%B2%BE%E9%80%8950%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张惠妹精选50首(2小时) # Tier:C Score:2
-https://tymov2.a.kwimgs.com/upic/2023/10/29/15/BMjAyMzEwMjkxNTUzMjJfODc4MDI5MjJfMTE2MDM0MDI2OTYzXzBfMw==_b_Baf9af8d16355a3b6a472969e267cd720.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B0%AD%E5%92%8F%E9%BA%9F%E7%B2%BE%E9%80%89124%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",谭咏麟精选124首(8小时) # Tier:C Score:2
 https://tymov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDIzMzlfNDQzMTI2Mjg0XzE2NjY1MDYzNDc1OF8yXzM=_b_B0bd6ebd8a66377f39dec750ce771810a.mp4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%83%A0%E5%A6%B9%E7%B2%BE%E9%80%8950%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张惠妹精选50首(2小时) # Tier:C Score:2
+https://tymov2.a.kwimgs.com/upic/2023/10/29/15/BMjAyMzEwMjkxNTUzMjJfODc4MDI5MjJfMTE2MDM0MDI2OTYzXzBfMw==_b_Baf9af8d16355a3b6a472969e267cd720.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E5%BF%86%E8%8E%B2%E7%B2%BE%E9%80%8957%E9%A6%96(4%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",林忆莲精选57首(4小时) # Tier:C Score:2
 https://tymov2.a.kwimgs.com/upic/2024/01/16/07/BMjAyNDAxMTYwNzEzNTNfODI4NTk1NTQ0XzEyMjIyODI2OTMyM18yXzM=_b_B358e6b1dbf7db9a80ffc4f82cee98a4e.mp4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E7%B2%92%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陈粒精选20首(1小时) # Tier:C Score:2
 https://txmov2.a.kwimgs.com/upic/2020/10/04/21/BMjAyMDEwMDQyMTI1NDZfMTc4NDYxNDcyNl8zNzE2MjYzNjA2N18yXzM=_b_B916781f8115d7d5caf6554e522a17daa.mp4
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🚂┃湾区频道",凤凰卫视 # Tier:C Score:4
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34629
-#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS欢乐.png" group-title="🚂┃湾区频道",TVBS欢乐 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=20&s=3
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/美亚电影台.png" group-title="🚂┃湾区频道",美亚电影台 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=19&s=1
-#EXTINF:-1 tvg-id="三立台湾台" tvg-name="三立台湾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立台湾.png" group-title="🚂┃湾区频道",三立台湾 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=15&s=4
-#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合.png" group-title="🚂┃湾区频道",东森综合 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=19&s=4
-#EXTINF:-1 tvg-id="now星影台" tvg-name="Now星影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影台.png" group-title="🚂┃湾区频道",Now星影台 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=20&s=2
-#EXTINF:-1 tvg-id="纬来育乐台" tvg-name="纬来育乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来育乐.png" group-title="🚂┃湾区频道",纬来育乐 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=31&s=4
-#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立戏剧台.png" group-title="🅱┃台湾频道",三立戏剧台 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=17&s=4
-#EXTINF:-1 tvg-id="年代新闻台" tvg-name="年代新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/年代新闻.png" group-title="🅱┃台湾频道",年代新闻 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=11&s=3
-#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来日本台.png" group-title="🅱┃台湾频道",纬来日本台 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=29&s=4
-#EXTINF:-1 tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来综合台.png" group-title="🅱┃台湾频道",纬来综合台 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=25&s=4
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天卡通台.png" group-title="🅱┃台湾频道",靖天卡通台 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=37&s=4
-#EXTINF:-1 tvg-id="EYE TV戏剧台" tvg-name="EYETV 戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EYETV 戏剧.png" group-title="🅱┃台湾频道",EYETV 戏剧 # Tier:C Score:4
-http://125.94.244.29:2101/1234.php?id=33&s=3
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法治天地.png" group-title="📚┃上海频道",法治天地 # Tier:C Score:2
 http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=fztd&usign=
 #EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动作电影.png" group-title="🎬┃电影频道",动作电影 # Tier:C Score:1
@@ -378,35 +346,35 @@ http://cfss.cc/cdn/huya/23865080.flv
 https://mpimg.cn/view.php/33d9c1521de0e0e9de09ad5d78668564.mp4
 #EXTINF:-1 tvg-name="TVBuzau" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="📺 TVB",TVBuzau # Tier:C Score:4
 http://78.96.33.89:8080
-#EXTINF:-1 tvg-name="春晚1983" tvg-logo="https://live.fanmingming.cn/tv/春晚1983.png" group-title="其他频道",春晚1983 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 tvg-name="春晚1986" tvg-logo="https://live.fanmingming.cn/tv/春晚1986.png" group-title="其他频道",春晚1986 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 tvg-name="春晚1989" tvg-logo="https://live.fanmingming.cn/tv/春晚1989.png" group-title="其他频道",春晚1989 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 tvg-name="春晚1988" tvg-logo="https://live.fanmingming.cn/tv/春晚1988.png" group-title="其他频道",春晚1988 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 tvg-name="春晚1985" tvg-logo="https://live.fanmingming.cn/tv/春晚1985.png" group-title="其他频道",春晚1985 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 tvg-name="春晚1984" tvg-logo="https://live.fanmingming.cn/tv/春晚1984.png" group-title="其他频道",春晚1984 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 #EXTINF:-1 tvg-name="春晚1987" tvg-logo="https://live.fanmingming.cn/tv/春晚1987.png" group-title="其他频道",春晚1987 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 tvg-name="春晚1999" tvg-logo="https://live.fanmingming.cn/tv/春晚1999.png" group-title="其他频道",春晚1999 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+#EXTINF:-1 tvg-name="春晚1985" tvg-logo="https://live.fanmingming.cn/tv/春晚1985.png" group-title="其他频道",春晚1985 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 tvg-name="春晚1983" tvg-logo="https://live.fanmingming.cn/tv/春晚1983.png" group-title="其他频道",春晚1983 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+#EXTINF:-1 tvg-name="春晚1984" tvg-logo="https://live.fanmingming.cn/tv/春晚1984.png" group-title="其他频道",春晚1984 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 tvg-name="春晚1986" tvg-logo="https://live.fanmingming.cn/tv/春晚1986.png" group-title="其他频道",春晚1986 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+#EXTINF:-1 tvg-name="春晚1988" tvg-logo="https://live.fanmingming.cn/tv/春晚1988.png" group-title="其他频道",春晚1988 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+#EXTINF:-1 tvg-name="春晚1989" tvg-logo="https://live.fanmingming.cn/tv/春晚1989.png" group-title="其他频道",春晚1989 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
 #EXTINF:-1 tvg-name="春晚1991" tvg-logo="https://live.fanmingming.cn/tv/春晚1991.png" group-title="其他频道",春晚1991 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 tvg-name="春晚2011" tvg-logo="https://live.fanmingming.cn/tv/春晚2011.png" group-title="其他频道",春晚2011 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 tvg-name="春晚2020" tvg-logo="https://live.fanmingming.cn/tv/春晚2020.png" group-title="其他频道",春晚2020 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 tvg-name="春晚2021" tvg-logo="https://live.fanmingming.cn/tv/春晚2021.png" group-title="其他频道",春晚2021 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 tvg-name="春晚2017" tvg-logo="https://live.fanmingming.cn/tv/春晚2017.png" group-title="其他频道",春晚2017 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 tvg-name="春晚2015" tvg-logo="https://live.fanmingming.cn/tv/春晚2015.png" group-title="其他频道",春晚2015 # Tier:C Score:2
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
 #EXTINF:-1 tvg-name="春晚2008" tvg-logo="https://live.fanmingming.cn/tv/春晚2008.png" group-title="其他频道",春晚2008 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+#EXTINF:-1 tvg-name="春晚2020" tvg-logo="https://live.fanmingming.cn/tv/春晚2020.png" group-title="其他频道",春晚2020 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 tvg-name="春晚2011" tvg-logo="https://live.fanmingming.cn/tv/春晚2011.png" group-title="其他频道",春晚2011 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+#EXTINF:-1 tvg-name="春晚1999" tvg-logo="https://live.fanmingming.cn/tv/春晚1999.png" group-title="其他频道",春晚1999 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+#EXTINF:-1 tvg-name="春晚2015" tvg-logo="https://live.fanmingming.cn/tv/春晚2015.png" group-title="其他频道",春晚2015 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+#EXTINF:-1 tvg-name="春晚2017" tvg-logo="https://live.fanmingming.cn/tv/春晚2017.png" group-title="其他频道",春晚2017 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
 #EXTINF:-1 tvg-name="春晚2022" tvg-logo="https://live.fanmingming.cn/tv/春晚2022.png" group-title="其他频道",春晚2022 # Tier:C Score:2
 https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 tvg-name="春晚2021" tvg-logo="https://live.fanmingming.cn/tv/春晚2021.png" group-title="其他频道",春晚2021 # Tier:C Score:2
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
