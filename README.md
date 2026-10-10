@@ -1,36 +1,36 @@
 ## 📡 直播源地址
 
-最后更新: 2026-10-09 05:13:49
+最后更新: 2026-10-10 05:01:18
 
 ### 🏆 质量分级
-- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u) (822个)
-- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u) (501个)
-- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u) (130个)
+- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u) (826个)
+- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u) (466个)
+- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u) (125个)
 
 ### ✅ 综合验证列表
 - **完整列表 (A+B+C)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 1453 个
-- 有效率: 22.6%
+- 有效频道: 1417 个
+- 有效率: 21.8%
 
 ### 📺 分类频道
 - **央视**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/cctv.m3u) (55个)
-- **卫视**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u) (85个)
-- **地方台**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u) (257个)
+- **卫视**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u) (86个)
+- **地方台**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u) (256个)
 - **国际**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/international.m3u) (87个)
-- **其他**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u) (969个)
+- **其他**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u) (933个)
 
 ### 🔧 特殊列表
 - **IPv6 源**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/ipv6.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/ipv6.m3u) (122个，需IPv6网络)
 - **景区慢直播**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/webcam.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/webcam.m3u) (51个)
-- **已拦截**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/blocked.m3u) (916个，私人代理/高风险域名)
+- **已拦截**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/blocked.m3u) (914个，私人代理/高风险域名)
 
 ### 📊 统计信息
-- 总采集: 9750 个
-- 内容验证通过: 1951 个
+- 总采集: 9803 个
+- 内容验证通过: 1913 个
 - IPv6保留: 122 个
-- A级: 822 | B级: 501 | C级: 130
-- 验证耗时: 1452.35 秒
-- 更新时间: 2026-10-09T05:13:49.208196
+- A级: 826 | B级: 466 | C级: 125
+- 验证耗时: 1578.61 秒
+- 更新时间: 2026-10-10T05:01:18.607056
 
 ---
 
