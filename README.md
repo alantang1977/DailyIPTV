@@ -1,23 +1,23 @@
 ## 📡 直播源地址
 
-最后更新: 2026-11-16 05:47:50
+最后更新: 2026-11-17 07:24:59
 
 ### 🏆 质量分级
-- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u) (871个)
-- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u) (514个)
-- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u) (124个)
+- **⭐ A级 (官方CDN)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_a.m3u) (893个)
+- **✅ B级 (可靠聚合)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_b.m3u) (581个)
+- **⚠️ C级 (低置信度)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/tier_c.m3u) (123个)
 
 ### ✅ 综合验证列表
 - **完整列表 (A+B+C)**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 1509 个
-- 有效率: 17.9%
+- 有效频道: 1597 个
+- 有效率: 18.4%
 
 ### 📺 分类频道
-- **央视**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/cctv.m3u) (53个)
-- **卫视**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u) (97个)
-- **地方台**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u) (219个)
-- **国际**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/international.m3u) (152个)
-- **其他**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u) (988个)
+- **央视**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/cctv.m3u) (61个)
+- **卫视**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/satellite.m3u) (103个)
+- **地方台**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/local.m3u) (256个)
+- **国际**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/international.m3u) (161个)
+- **其他**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/other.m3u) (1016个)
 
 ### 🔧 特殊列表
 - **IPv6 源**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/ipv6.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/ipv6.m3u) (133个，需IPv6网络)
@@ -25,12 +25,12 @@
 - **已拦截**: [https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/blocked.m3u](https://raw.githubusercontent.com/alantang1977/DailyIPTV/main/outputs/blocked.m3u) (621个，私人代理/高风险域名)
 
 ### 📊 统计信息
-- 总采集: 11496 个
-- 内容验证通过: 2077 个
+- 总采集: 11808 个
+- 内容验证通过: 2189 个
 - IPv6保留: 133 个
-- A级: 871 | B级: 514 | C级: 124
-- 验证耗时: 2811.91 秒
-- 更新时间: 2026-11-16T05:47:50.470089
+- A级: 893 | B级: 581 | C级: 123
+- 验证耗时: 2137.94 秒
+- 更新时间: 2026-11-17T07:24:59.555810
 
 ---
 
